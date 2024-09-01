@@ -1,3 +1,12 @@
+//NAME: Aleeza Khan 
+//DATE: August 29, 2024 
+//PROGRAM 3 DISTANCE 
+//DESCRIPTION: The point of this code is to allow the user to either enter 4 numbers of
+//their own choice or allow the computer to genter 4 numbers for them and from there it 
+//would be seperated into 2 points and then the computer will then decide which point 
+//(point 1 or point 2) is closer to the origin 
+
+
 #include <iostream>
 #include <cmath>
 using namespace std;
